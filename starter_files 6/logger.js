@@ -1,7 +1,7 @@
 //
 // !! Don't Edit this file
 //
-function runAnswer (num, question) {
+function runAnswer(num, question) {
   const color = 'background: #ff4e29; color: #FFFFFF';
   console.log(`%c -- Question ${num} -- `, color);
   question();
